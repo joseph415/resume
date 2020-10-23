@@ -3,4 +3,9 @@
 .sass-cache
 _site
 *.code-workspace
+<<<<<<< HEAD
 vendor
+=======
+.idea
+>>>>>>> gh-pages
+git
