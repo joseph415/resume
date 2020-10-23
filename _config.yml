@@ -1,37 +1,39 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: joseph415/resume
+#Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: CHEONG EUN SEOK
+title: Java Backend Developer
+email: jeseok95@gmail.com
+phone: Please contect email
+website: Preparing github.io
+#joseph415/github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+#twitter_username: jekyllrb
+github_username:  joseph415
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: __silver_stone
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,21 +46,27 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
-
+  앱 서비스 백앤드 개발 경험과 우아한태크코스 교육을 통해 객체지향적이고 유지보수가 용이한 코드를 만들기 위해 노력합니다.<br/>
+  <mark>Spring framework</mark> <mark>React-Native</mark> <mark>expo</mark> <mark>MariaDB</mark> <mark>Nginx</mark> <mark>Git</mark> 등을 사용하여 프로덕션 서비스를 만들어본 경험이 있습니다.<br/>
+  최근에는 **AOP** 에 관심이 생겨 진행중인 프로젝트에 적용하기 위해 노력중에 있습니다.<br/>
+  <br/>
+  호기심이 많으며 어떤 것이든지 질문을 많이 합니다. 새로운 것에 대해 적극적이고 빠르게 흡수하고 열정적으로 받아들입니다.<br/>
+  최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 이바지했습니다.<br/>
+  <br/>
+  성장하는 것을 좋아하고 성장하기 위해 노력하고 있습니다. 꾸준함은 성장에 좋은 밑거름이라고 생각합니다.
+  꾸준함을 유지하기 위해 개인 블로그에 기술 포스트를 작성하고 개발 외적으로 꾸준하게 5년간 자기관리를 위해 헬스를 하고 있습니다.<br/>
+  <br/>
+  팀이 같은 목표를 갖고 나아갈때 가장 큰 시너지가 나온다고 생각하기 때문에<br/>
+  가장 중요한 가치관으로 팀워크와 꾸준함을 생각합니다.<br/>
+  <br/>
+  이러한 점을 바탕으로 항상 성장하는 개발자가 되기 위해 꾸준하게 노력하고 학습하고, 경험하고 있습니다.<br/>
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Skill #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
@@ -66,9 +74,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  <center>개발 이외에도 여러 스스로에게 도전하는 것과 스포츠를 좋아합니다.
+  640KM 국토종주, 춤 공연, 헬스, 등반 등 활발한 활동을 주로 합니다.</center>
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

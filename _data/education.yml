@@ -1,9 +1,39 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: 홍익대학교
+  dates: March 2015 - Present
+  qualification: 컴퓨터공학
+  description: |
+    > **자료구조, 알고리즘, 운영체제, 데이터베이스, 네트워크 등.. 다양한 computer secience 에 대해 학습하였습니다.**
+- layout: left
+  name: 우아한테크코스
+  link: https://woowacourse.github.io
+  dates: February 2020 - Present
+  qualification: Java Web Backend Course
+  description: |
+    **미션기반의 코드리뷰 중심, 소통과 협업 위주 학습, 현장 중심 교육**<br/>
+    <br/>
+    미션 기반의 자기주도 학습 진행 <br/>
+    페어 프로그래밍을 통한 협업역량 강화 <br/>
+    현직자의 코드리뷰를 통한 클린코드 역량 향상 <br/>
+    <br/>
+    > **Java를 이용하여 웹서버를 직접 구현 해보면서 웹서버에서 Http 요청을 어떻게 처리하는지 학습하였고<br/>
+    Spring Framework에 대한 지식을 습득하고 다양한 Spring 모듈에 대해 학습하였습니다.**
+
+    <h4>Lv 1</h4>
+    - 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험
+    - 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경
+    - 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험
+    - 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발
+    <h4>Lv 2</h4>
+    - Spring 프레임워크 기반으로 웹 애플리케이션을 개발
+    - TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링
+    <h4>Lv 3</h4>
+    - 팀 프로젝트를 통해 팀원들간의 소통, 협업, 회고 진행
+    - 구현한 프로그램을 서버에 배포
+    <h4>Lv 4</h4>
+    - 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해
+    - 레거시 프로젝트를 리팩토링
+    - 객체지향 설계, 인증 및 보안, WebSocket 경험
+    - 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험
+    - 배포를 자동화하고, 피드백을 받아 지속적으로 개선
