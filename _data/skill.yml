@@ -1,0 +1,16 @@
+- layout: left
+  company: Languages
+  description: | # this will include new lines to allow paragraphs
+    - <mark>Java</mark> <mark>C</mark> <mark>C++</mark>
+    - HTML CSS TypeScript
+- layout: left
+  company: Frameworks / Libraries
+  description: | # this will include new lines to allow paragraphs
+    - <mark>Spring boot</mark> <mark>Spring Security</mark> <mark>Spring MVC</mark> <mark>Spring Data JPA</mark> <mark>Junit5</mark>
+    - Nginx
+    - React Native(Expo) Recoil
+- layout: left
+  company: Databases / ORM
+  description: | # this will include new lines to allow paragraphs
+    - <mark>MariaDB</mark> <mark>MySQL</mark>
+    - JPA

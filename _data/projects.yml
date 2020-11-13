@@ -2,9 +2,11 @@
 - layout: left
   name: 직고래
   link: sites.google.com/woowahan.com/wooteco-demo/직고래
+  introduce: sites.google.com/woowahan.com/wooteco-demo/직고래
   blog: seller-lee.github.io
+  github-link: github.com/woowacourse-teams/2020-seller-lee-company
   github: woowacourse-teams/2020-seller-lee-company
-  dates: July 2020 - Present
+  dates: July.04 2020 - November.06 2020
   quote: >
     '조직 간의 끈끈한 유대감을 만들자'라는 비전을 통해 '따뜻한 교류가 있는 조직 벼룩시장을 꿈구다'라는 가치를 가지고 있습니다.
   description: |
@@ -15,7 +17,6 @@
     - Nginx를 Proxy server로 사용하여 Https 적용과 보안헤더 설정을 통해 보안등급 A+ 달성
     - React Native를 사용한 모바일 애플리케이션 스크린 및 컴포넌트 개발
     - 무중단 배포 서버 구현
-    - Nginx를 통해 정적 파일 캐싱
     - **Skill Keyward**
 
       <mark>Spring boot</mark> <mark>Spring Security</mark> <mark>Spring MVC</mark> <mark>Spring Data JPA</mark> <mark>React Native</mark> <mark>TypeScript</mark> <mark>MariaDB</mark> <mark>Docker</mark> <mark>Nginx</mark> <mark>HTTPS</mark>

@@ -7,8 +7,9 @@ repository: joseph415/resume
 name: CHEONG EUN SEOK
 title: Java Backend Developer
 email: jeseok95@gmail.com
-phone: Please contect email
-website: Preparing github.io
+github: www.github.com/joseph415
+phone: 010-7278-5797
+#website: Preparing github.io
 #joseph415/github.io
 
 # Dark Mode (true/false/never)
@@ -46,27 +47,28 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
+#about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  앱 서비스 백앤드 개발 경험과 우아한태크코스 교육을 통해 객체지향적이고 유지보수가 용이한 코드를 만들기 위해 노력합니다.<br/>
-  <mark>Spring framework</mark> <mark>React-Native</mark> <mark>expo</mark> <mark>MariaDB</mark> <mark>Nginx</mark> <mark>Git</mark> 등을 사용하여 프로덕션 서비스를 만들어본 경험이 있습니다.<br/>
-  최근에는 **AOP** 에 관심이 생겨 진행중인 프로젝트에 적용하기 위해 노력중에 있습니다.<br/>
+  앱 서비스 백앤드 개발 경험이 있고, 현재 진행하고 있는 우아한테크코스 교육을 통해 객체지향적이고 유지보수가
+  용이한 코드를 만들기 위해 노력하고 있습니다.<br/>
+  <mark>Spring framework</mark> <mark>React-Native</mark> <mark>Expo</mark> <mark>MariaDB</mark> <mark>Nginx</mark> <mark>Git</mark> 등을 사용하여 프로덕션 서비스를 만들어본 경험이 있습니다.<br/>
+  Spring MVC 와 Spring Security 에 관심이 생겨 학습을 하며 최근 프로젝트에 적용하기 위해 노력하였습니다.<br/>
   <br/>
   호기심이 많으며 어떤 것이든지 질문을 많이 합니다. 새로운 것에 대해 적극적이고 빠르게 흡수하고 열정적으로 받아들입니다.<br/>
   최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 이바지했습니다.<br/>
   <br/>
-  성장하는 것을 좋아하고 성장하기 위해 노력하고 있습니다. 꾸준함은 성장에 좋은 밑거름이라고 생각합니다.
-  꾸준함을 유지하기 위해 개인 notion에 글을 작성하고 개발 외적으로 꾸준하게 5년간 자기관리를 위해 헬스를 하고 있습니다.<br/>
+  꾸준함은 성장에 좋은 밑거름이라고 생각합니다. 꾸준함을 유지하기 위해 개인 notion에 학습한 정리를 하며 기억하고 싶은 포스팅을 따로 북마크 해두어 관리하고 있습니다.
+  또, 개발 외적으로 꾸준하게 5년간 자기관리를 위해 헬스를 하고 있습니다.<br/>
   <br/>
-  팀이 같은 목표를 갖고 나아갈때 가장 큰 시너지가 나온다고 생각하기 때문에<br/>
-  가장 중요한 가치관으로 팀워크와 꾸준함을 생각합니다.<br/>
+  디양한 경험을 통해서 팀이 같은 목표를 갖고 나아갈 때 가장 큰 시너지가 나온다고 생각합니다.<br/>
+  따라서, 팀워크와 꾸준함을 가장 중요한 가치관으로 생각합니다.<br/>
   <br/>
   이러한 점을 바탕으로 항상 성장하는 개발자가 되기 위해 꾸준하게 노력하고 학습하고, 경험하고 있습니다.<br/>
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-experience_title: Skill #(Use this to override about experience section title)
+#experience_title: Skill #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)

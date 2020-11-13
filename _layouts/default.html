@@ -16,8 +16,8 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.experience.size > 0 -%}
-      {%- include experience.html -%}
+      {%- if site.data.skill.size > 0 -%}
+      {%- include skill.html -%}
       {%- endif -%}
 
       {%- if site.data.projects.size > 0 -%}
@@ -26,6 +26,10 @@
 
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
+      {%- endif -%}
+
+      {%- if site.data.experience.size > 0 -%}
+      {%- include experience.html -%}
       {%- endif -%}
 
       {%- if site.more_content -%}
