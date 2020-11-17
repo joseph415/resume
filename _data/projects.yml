@@ -10,21 +10,20 @@
   quote: >
     '조직 간의 끈끈한 유대감을 만들자'라는 비전을 통해 '따뜻한 교류가 있는 조직 벼룩시장을 꿈구다'라는 가치를 가지고 있습니다.
   description: |
+    중고거래에서 가장 중요한 요소는 '신뢰'입니다. 모 중고거래 플랫폼은 최근 이웃끼리 중고거래를 이용할 수 있도록 지역 기반 중고거래 서비스를 하고 있습니다.
+    여기서 더 나아가, 직고래는 '조직 내에서 중고거래를 할 수 있으면 어떨까?'라는 생각을 바탕으로, '조직이라는 소속감과 신뢰를 통해 사기당할 염려 없이 거래할 수 있으면 좋겠다'는
+    생각을 했습니다. 단순히 거래뿐 아니라, 조직 내의 커뮤니티를 위해 SNS 기반으로 서비스를 만들고 싶었습니다. SNS 기반으로 관심사의 공유, 유용한 콘텐츠 획득, 시간 보내기 용으로도 사용할 수 있도록
+    상품의 정보 전달 외에 상품의 사진을 구경하고 선호도를 좋아요 기능을 통해 제공해, 사용자의 관심과 반응을 불러일으켜 거래를 활성화합니다.
+
+    - 프로젝트 기여한 내용
+    1. React-Native를 이용해 모바일 애플리케이션 컴포넌트와 스크린을 개발
+    2. 게시글 상세조회 API와 판매내역에 관한 API를 구현
+    3. 회원가입/로그인 구현(Spring Security, Kakao OAuth)
+        - JWT 인증 Filter를 구현하여 OAuth 인증/인가필터 앞단에서 토큰의 유효성을 판별 후, Authentication객체를
+        SecurityContextHolder에 넣어 그 이후의 불필요한 로직이 실행되지 않도록 구현.
+    4. Https 적용과 더 나아가 SSL 헤더 설정을 통해 모질라와 퀄리스에서 제공하는 SSL server test에서 제일 좋은 스코어(A+)를 받음.
+    5. docker 컨테이너 기반으로 무중단 서버 배포 구현/ Jenkins를 통해 배포자동화
     <br>
-    직고래는 조직중고거래 서비스입니다. 중고거래에서 가장 중요한 것은 **신뢰** 이지 않을까 생각됩니다.
-    중고거래를 조직이라는 바운더리로 좁혀 소속감을 통해 서로의 신뢰를 높일 수 있도록 하였습니다.
-    <br>
-    <br>
-    또, 클라이언트가 서비스를 사용할 때 SNS 사용하는 것처럼 '시간을 보낼게 없나?, 뭐 유용한 것 없나?' 하는 흥미를 불러 일으키도록
-    다른 플랫폼과는 다르게 피드에서 상품의 정보 전달보단 SNS처럼 구경에 초점을 맞춰 상품의 사진, 좋아요 정도의 사용자의 관심과 반응을 불러일으키는 피드를 제공합니다.
-    <br>
-    - Spring Boot 기반의 API 서버 구축
-    - Spring Data JPA를 활용한 도메인 구현
-    - Spring Security를 사용하여 Kakao OAuth2 로그인 구현
-    - JWT 인증 Filter 구현
-    - Nginx를 Proxy server로 사용하여 Https 적용과 보안헤더 설정을 통해 보안등급 A+ 달성
-    - React Native를 사용한 모바일 애플리케이션 스크린 및 컴포넌트 개발
-    - 무중단 배포 서버 구현
     - **Skill Keyward**
 
       <mark>Spring boot</mark> <mark>Spring Security</mark> <mark>Spring MVC</mark> <mark>Spring Data JPA</mark> <mark>React Native</mark> <mark>TypeScript</mark> <mark>MariaDB</mark> <mark>Docker</mark> <mark>Nginx</mark> <mark>HTTPS</mark>
