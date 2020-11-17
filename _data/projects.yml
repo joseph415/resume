@@ -1,8 +1,6 @@
 # Project template
 - layout: left
   name: 직고래
-  link: sites.google.com/woowahan.com/wooteco-demo/직고래
-  introduce: sites.google.com/woowahan.com/wooteco-demo/직고래
   blog: seller-lee.github.io
   github-link: github.com/woowacourse-teams/2020-seller-lee-company
   github: woowacourse-teams/2020-seller-lee-company
@@ -16,13 +14,14 @@
     상품의 정보 전달 외에 상품의 사진을 구경하고 선호도를 좋아요 기능을 통해 제공해, 사용자의 관심과 반응을 불러일으켜 거래를 활성화합니다.
 
     - 프로젝트 기여한 내용
-    1. React-Native를 이용해 모바일 애플리케이션 컴포넌트와 스크린을 개발
-    2. 게시글 상세조회 API와 판매내역에 관한 API를 구현
-    3. 회원가입/로그인 구현(Spring Security, Kakao OAuth)
+      - React-Native를 이용해 모바일 애플리케이션 컴포넌트와 스크린을 개발
+      - 게시글 상세조회 API와 판매내역에 관한 API를 구현
+      - 회원가입/로그인 구현(Spring Security, Kakao OAuth)
         - JWT 인증 Filter를 구현하여 OAuth 인증/인가필터 앞단에서 토큰의 유효성을 판별 후, Authentication객체를
-        SecurityContextHolder에 넣어 그 이후의 불필요한 로직이 실행되지 않도록 구현.
-    4. Https 적용과 더 나아가 SSL 헤더 설정을 통해 모질라와 퀄리스에서 제공하는 SSL server test에서 제일 좋은 스코어(A+)를 받음.
-    5. docker 컨테이너 기반으로 무중단 서버 배포 구현/ Jenkins를 통해 배포자동화
+    SecurityContextHolder에 넣어 그 이후의 불필요한 로직이 실행되지 않도록 구현.
+      - Https 적용과 더 나아가 SSL 헤더 설정을 통해 모질라와 퀄리스에서 제공하는 SSL server test에서 제일 좋은 스코어(A+)를 받음.
+      - docker 컨테이너 기반으로 무중단 서버 배포 구현
+      - Jenkins를 통해 배포자동화
     <br>
     - **Skill Keyward**
 
