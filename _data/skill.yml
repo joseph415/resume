@@ -6,8 +6,8 @@
 - layout: left
   company: Frameworks / Libraries
   description: | # this will include new lines to allow paragraphs
-    - Spring boot, Spring Security, Spring MVC, Spring Data JPA, Junit5
-    - React Native(Expo) Recoil
+    - Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Junit5
+    - React Native(Expo), Recoil
 - layout: left
   company: Web Server
   description: | # this will include new lines to allow paragraphs

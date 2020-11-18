@@ -6,7 +6,7 @@
   github: woowacourse-teams/2020-seller-lee-company
   dates: July.04 2020 - November.06 2020
   quote: >
-    '조직 간의 끈끈한 유대감을 만들자'라는 비전을 통해 '따뜻한 교류가 있는 조직 벼룩시장을 꿈구다'라는 가치를 가지고 있습니다.
+    '조직 간의 끈끈한 유대감을 만들자'라는 비전을 통해 '따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다'라는 가치를 가지고 있습니다.
   description: |
     직고래는 학교, 회사, 동호회 등 내가 속한 조직 내에서 구성원들과 중고거래를 할 수 있는 플랫폼입니다.
     사용자가 조직을 생성해서 조직 코드를 통해 구성원을 초대하고, 구성원들끼리 거래합니다.
@@ -26,6 +26,6 @@
       - docker 컨테이너 기반으로 무중단 서버 배포 구현
         - Blue-Green 방식의 배포전략을 사용해 무중단 배포 서버 구현
     <br>
-    - **Skill Keyward**
+    - **Skill Keyword**
 
-      <mark>Spring boot</mark> <mark>Spring Security</mark> <mark>Spring MVC</mark> <mark>Spring Data JPA</mark> <mark>React Native</mark> <mark>TypeScript</mark> <mark>MariaDB</mark> <mark>Docker</mark> <mark>Nginx</mark> <mark>HTTPS</mark>
+      <mark>Spring Boot</mark> <mark>Spring Security</mark> <mark>Spring MVC</mark> <mark>Spring Data JPA</mark> <mark>React Native</mark> <mark>TypeScript</mark> <mark>MariaDB</mark> <mark>Docker</mark> <mark>Nginx</mark> <mark>HTTPS</mark>
