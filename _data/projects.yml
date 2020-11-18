@@ -1,8 +1,8 @@
 # Project template
 - layout: left
   name: 직고래
-  blog: seller-lee.github.io
-  github-link: github.com/woowacourse-teams/2020-seller-lee-company
+  blog: https://seller-lee.github.io
+  github-link: https://github.com/woowacourse-teams/2020-seller-lee-company
   github: woowacourse-teams/2020-seller-lee-company
   dates: July.04 2020 - November.06 2020
   quote: >
