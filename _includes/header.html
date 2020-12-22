@@ -113,7 +113,7 @@
       {%- endif -%}
       {%- if site.github -%}
       <p>
-        {{ site.phone_title | default: "Github" }}: {{ site.github | escape }}
+        {{ site.phone_title | default: "Github" }}: {% include a.html href=site.github %}{{ site.github | escape }}</a>
       </p>
       {%- endif -%}
       {%- if site.phone -%}
@@ -121,10 +121,10 @@
           {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
         </p>
       {%- endif -%}
-      {%- if site.Notion -%}
-        <p>
-          {{ site.Notion | default: "Notion" }}: {% include a.html href=site.Notion %}{{ site.Notion | escape }}</a>
-        </p>
+      {%- if site.website -%}
+      <p>
+        {{ site.website_title | default: "Notion" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+      </p>
       {%- endif -%}
     </div>
   </div>
