@@ -75,8 +75,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  개발 이외에도 스스로에게 도전하는 것과 640KM 국토종주, 춤, 헬스, 등반 등 활발한 스포츠를 좋아합니다.
+#more_content: | # this will include new lines to allow paragraphs
+#  개발 이외에도 스스로에게 도전하는 것과 640KM 국토종주, 춤, 헬스, 등반 등 활발한 스포츠를 좋아합니다.
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
