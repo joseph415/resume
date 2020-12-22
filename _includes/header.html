@@ -123,7 +123,7 @@
       {%- endif -%}
       {%- if site.Notion -%}
         <p>
-          {{ site.Notion | default: "Web" }}: {% include a.html href=site.Notion %}{{ site.Notion | escape }}</a>
+          {{ site.Notion | default: "Notion" }}: {% include a.html href=site.Notion %}{{ site.Notion | escape }}</a>
         </p>
       {%- endif -%}
     </div>
