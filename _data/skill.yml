@@ -7,11 +7,12 @@
   company: Frameworks / Libraries
   description: | # this will include new lines to allow paragraphs
     - Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Junit5, Mockito
-    - React Native(Expo), Recoil
+    - React Native, Recoil
 - layout: left
   company: Web Server, devOps
   description: | # this will include new lines to allow paragraphs
-    - Nginx, Docker
+    - Nginx,
+    - Docker
 - layout: left
   company: Databases / ORM
   description: | # this will include new lines to allow paragraphs

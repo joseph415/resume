@@ -17,7 +17,7 @@ darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  joseph415
+github_username: joseph415
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -56,10 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   호기심이 많으며 어떤 것이든지 질문을 많이 합니다. 새로운 것에 대해 적극적이고 빠르게 흡수하고 열정적으로 받아들입니다.<br/>
   최근 진행한 프로젝트에서도 많은 새로운 기술들을 빠르게 소화하고 팀에게 이바지했습니다.<br/>
   <br/>
-  꾸준함과 끈기는 성장에 좋은 밑거름이라고 생각합니다. 꾸준함을 유지하기 위해 개인 notion에 학습한 내용을 정리하며 기억에 남은 포스팅을 따로 북마크 해두어 관리하고 있습니다.
-  또, 개발 외적으로 5년넘게 자기관리를 위해 헬스를 하고 있습니다.<br/>
-  다양한 팀 활동을 통해 팀에 대한 중요성을 알았고 팀이 같은 목표를 갖고 좋은 팀워크를 가질 때 더 큰 시너지를 낼 수 있다는 것을 많이 느꼈습니다.<br/>
-  따라서, 팀워크와 꾸준함,끈기를 가장 중요한 가치관으로 생각합니다.<br/>
+  팀워크와 꾸준함,끈기를 가장 중요한 가치관으로 생각합니다.<br/>
+  꾸준함,끈기는 성장에 좋은 밑거름입니다. 꾸준함을 유지하기 위해 개인 notion에 학습한 내용을 정리하며 기억에 남은 포스팅을 따로 북마크 해두어 관리하고 있습니다.
+  또, 개발 외적으로 자기관리를 위해서 5년넘게 헬스를 하고 있습니다.
+  더 나아가, 다양한 팀 활동을 통해 팀에 대한 중요성을 잘 인지하고 있습니다. 좋은 팀워크로 하나의 목표를 갖는 팀은 좋은 결과물을 낼 수 있다는 것을 많이 느꼈습니다.<br/>
   <br/>
   이러한 점을 바탕으로 항상 성장하는 개발자가 되기 위해 노력하고 학습하고, 경험하고 있습니다.<br/>
 # Projects Section
@@ -91,17 +91,17 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude: [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+]
