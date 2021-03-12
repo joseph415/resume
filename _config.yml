@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 #about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  앱 서비스 백앤드 개발 경험이 있고, 우아한테크코스 교육을 통해 객체지향적인 사고와 소프트스킬 능력을 길렀습니다.<br/>
+  앱 서비스 백앤드 개발 경험이 있고, 객체지향적인 사고와 소프트스킬 역량을 기르기 위해 노력하고 있습니다.<br/>
   <mark>Spring Framework</mark> <mark>JPA</mark> <mark>Docker</mark> <mark>MariaDb</mark> <mark>Nginx</mark> <mark>Git</mark> <mark>React Native</mark> 등을 사용하여 프로덕션 서비스를 만들어본 경험이 있습니다.<br/>
   <mark>DDD</mark> <mark>Spring Security</mark> 에 관심이 생겨 학습을 하며 최근 프로젝트에 적용하기 위해 노력하였습니다.<br/>
   <br/>
