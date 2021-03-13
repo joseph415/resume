@@ -14,7 +14,7 @@
   description: |
     - 프로젝트 기여한 내용
       - 게시글 전체 조회 시 VO 일급컬렉션에 의해 N+1이 발생하는 것을 발견해 개선하여 애플리케이션 성능 개선
-      - 게시글 상세조회와 판매내역에 관한 Restful API를 개발
+      - 게시글 상세조회와 판매내역에 관한 HTTP API를 개발
       - 회원가입/로그인 개발(Spring Security, Kakao OAuth)
         - Form 형식의 로그인을 OAuth로 변경
         - Spring Interceptor 기반이었던 JWT 인증 로직을 Filter로 변경
