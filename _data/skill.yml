@@ -1,16 +1,15 @@
 - layout: left
   company: Languages
   description: | # this will include new lines to allow paragraphs
-    - Java, C, C++, Python, TypeScript
+    - Java, C, C++, Python
 - layout: left
   company: Frameworks / Libraries
   description: | # this will include new lines to allow paragraphs
     - Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Junit5, Mockito
-    - React Native
 - layout: left
   company: Web Server, devOps
   description: | # this will include new lines to allow paragraphs
-    - Nginx, Docker
+    - Docker
 - layout: left
   company: Databases / ORM
   description: | # this will include new lines to allow paragraphs
