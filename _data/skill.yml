@@ -7,10 +7,10 @@
   description: | # this will include new lines to allow paragraphs
     - Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Junit5, Mockito
 - layout: left
-  company: Web Server, devOps
-  description: | # this will include new lines to allow paragraphs
-    - Docker
-- layout: left
   company: Databases / ORM
   description: | # this will include new lines to allow paragraphs
     - MariaDB, JPA
+- layout: left
+  company: Web Server, devOps
+  description: | # this will include new lines to allow paragraphs
+    - Docker, Nginx
