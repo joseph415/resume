@@ -5,7 +5,8 @@
 - layout: left
   company: Frameworks / Libraries
   description: | # this will include new lines to allow paragraphs
-    - Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Junit5, Mockito
+    - Spring Boot, Spring Security, Spring MVC, Spring Data JPA
+    - Junit5
 - layout: left
   company: Databases / ORM
   description: | # this will include new lines to allow paragraphs
