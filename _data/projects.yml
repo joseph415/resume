@@ -11,20 +11,21 @@
     또한, 사용자의 시나리오를 분석했을 때 킬링타임 용도로 사용하는 사람의 비율도 높았습니다. 이런 니즈를 충족시키기 위해 SNS의 피드 형식으로 게시글을 제공했습니다.<br/>
     거래를 수월하게 할 수 있도록 1:1 채팅 기능과 알림 기능을 제공하고, 구성원끼리 유대감을 형성할 수 있도록 전체 채팅 기능을 제공합니다.<br/>
   description: |
-    [기술 적용기]
-    - https://github.com/joseph415/JIKGORAE-project-records
+    <h4>기술 적용기</h4>
+    [https://github.com/joseph415/JIKGORAE-project-records](https://github.com/joseph415/JIKGORAE-project-records)
     <br>
-    [프로젝트 기여한 내용]
+    <br>
+    <h4>담당 업무 및 기여한 부분</h4>
       - 게시글 전체 조회 시 JPA 연관 관계에 의해 나타나는 N+1문제를 발견해 성능 개선
         - 100개의 게시글 전체 조회 시(findAll) 201번의 쿼리를 만들었던 애플리케이션을 3번의 쿼리로 줄이는 성능 개선을 함
       - 게시글 상세조회와 판매내역에 관한 HTTP API를 개발
       - 회원가입/로그인 개발(Spring Security, Kakao OAuth)
         - Form 형식의 로그인을 OAuth로 변경
         - Spring Interceptor 기반이었던 JWT 인증 로직을 Filter로 변경
-      - 애플리케이션의 보안취약점을 파악하고 보완함
-        - XSS의 취약점을 파악하고,Spring Security와 Nginx를 이용해 response security header 를 추가함
-          - 더 나아가, csrf Token와 다양한 ssl 설정을 추가
-        - Https 를 적용
+      - 애플리케이션의 보안 취약점을 파악하고 보완함
+        - XSS의 가능성을 발견해, Spring Security와 Nginx를 이용해 Response Security Header 를 추가함
+          - 더 나아가, CSRF Token와 다양한 SSL 설정을 추가
+          - Https 를 적용
         - 다른 팀 서비스와 다르게, SSL server 등급을 측정할 수 있는 사이트에서 가장 좋은 스코어 획득
       - docker 컨테이너와 Nginx를 이용해 무중단 서버 배포 구현
         - Blue-Green 방식의 배포전략을 사용해 무중단 배포 스크립트 작성
