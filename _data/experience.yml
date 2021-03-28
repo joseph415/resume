@@ -1,7 +1,6 @@
 # Experience template
 - layout: left
   name: 우아한테크코스
-  introduce: https://github.com/joseph415/woowacourse-learns
   dates: February 2020 - November 2020
   qualification: Java Web Backend Course
   description: |
@@ -9,11 +8,11 @@
     페어 프로그래밍과 팀 프로젝트를 통해 협업 역량을 강화하고, 현직자의 코드리뷰를 통해 클린 코드 역량을 향상시킴으로써 현장형 인재로서의 성장을 도모하는 교육입니다.
     <br/>
     <br/>
+    <h4>우아한테크코스 Learning 저장소</h4>
+    [https://github.com/joseph415/JIKGORAE-project-records](https://github.com/joseph415/woowacourse-learns)
+    <br>
+    <br>
     우아한테크코스를 진행하면서 다음과 같은 역량을 키웠습니다.
-    <br/>
-    <br/>
-    <br/>
-
     <h4>Java</h4>
     - 자바 프로그래밍 언어에 대한 기본 문법을 익히는 연습을 함
     - 객체의 책임분리에 집중하며 프로그래밍을 함
