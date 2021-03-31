@@ -27,7 +27,7 @@
       - 애플리케이션의 보안 취약점을 파악하고 보완함
         - XSS의 가능성을 발견해, Spring Security와 Nginx를 이용해 Response Security Header 를 추가함
           - 더 나아가, CSRF Token와 다양한 SSL 설정을 추가
-          - Https 를 적용
+          - Nginx를 이용해 Https 를 적용
         - 다른 팀 서비스와 다르게, SSL server 등급을 측정할 수 있는 사이트에서 가장 좋은 스코어 획득
       - docker 컨테이너와 Nginx를 이용해 무중단 서버 배포 구현
         - Blue-Green 방식의 배포전략을 사용해 무중단 배포 스크립트 작성
