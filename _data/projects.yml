@@ -1,7 +1,7 @@
 # Project template
 - layout: left
   name: 직고래
-  github-link: https://github.com/woowacourse-teams/2020-seller-lee-company
+#  github-link: https://github.com/woowacourse-teams/2020-seller-lee-company
   github: woowacourse-teams/2020-seller-lee-company
   dates: July.04 2020 - November.06 2020
   quote: >
@@ -11,6 +11,8 @@
     또한, 사용자의 시나리오를 분석했을 때 킬링타임 용도로 사용하는 사람의 비율도 높았습니다. 이런 니즈를 충족시키기 위해 SNS의 피드 형식으로 게시글을 제공했습니다.<br/>
     거래를 수월하게 할 수 있도록 1:1 채팅 기능과 알림 기능을 제공하고, 구성원끼리 유대감을 형성할 수 있도록 전체 채팅 기능을 제공합니다.<br/>
   description: |
+    <h4>Github</h4>
+    [https://github.com/woowacourse-teams/2020-seller-lee-company](https://github.com/woowacourse-teams/2020-seller-lee-company)
     <h4>기술 적용기</h4>
     [https://github.com/joseph415/JIKGORAE-project-records](https://github.com/joseph415/JIKGORAE-project-records)
     <br>
